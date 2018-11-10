@@ -1,5 +1,5 @@
 # Google Apps Script Project: cScriptApi
-This repo (cScriptApi) was automatically updated on 31 October 2018 11:44:03 GMT by GasGit
+This repo (cScriptApi) was automatically updated on 10 November 2018 12:41:57 GMT by GasGit
 
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
 ## Details for Apps Script project cScriptApi
