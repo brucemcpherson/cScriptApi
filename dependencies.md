@@ -1,7 +1,7 @@
 # Google Apps Script Project: cScriptApi
 This repo (cScriptApi) was automatically updated on 09/07/2020, 17:41:27 by GasGit
 
-For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
+For more information see the [desktop liberation site](https://ramblings.mcpher.com/drive-sdk-and-github/getting-your-apps-scripts-to-github/ "desktop liberation") or [contact me on Gitter](https://gitter.im/desktopliberation/community "Bruce McPherson - GDE")
 ## Details for Apps Script project cScriptApi
 Where possible directly referenced or sub referenced library sources have been copied to this repository, or you can include the library references shown. 
 The shared link for [cScriptApi is here](https://script.google.com/d/1TvPB6nhP1WyXWpbZtsj4T5cqb_RXmzkLh01IqFeDCAhrDul-FlB_be7o/edit?usp=sharing "open in the GAS IDE")
